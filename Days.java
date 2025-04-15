@@ -6,7 +6,7 @@ class Days {
        int a=in.nextInt();
        switch (a){
         case 1:
-        System.out.println("Monday"));
+        System.out.println("Monday");
         break;
         case 2:
         System.out.println("Tuesday");
@@ -26,9 +26,9 @@ class Days {
         case 7:
         System.out.println("Sunday");
         break;
-        case 8:
+        default:
         System.out.println("Invalid");
-        break;
+        
               }
             }
         }
