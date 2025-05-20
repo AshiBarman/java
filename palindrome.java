@@ -5,9 +5,9 @@ public class palindrome {
         String str1 = "Ashi";
         System.out.println(str.length());
         System.out.println(str.charAt(0));
-         for(int i=0;i<str.length();i++){
+        for(int i=0;i<str.length();i++){
         for(int j=str.length ()-1;j>=0;j--){
-            if(str.charAt(i)=str1.charAt(j)){
+            if(str.charAt(i)==str1.charAt(j)){
                 System.out.println("palindrome");
             }
             else{

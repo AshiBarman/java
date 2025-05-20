@@ -1,4 +1,3 @@
-
 public class newStr {
     public static void main(String[] args) {
         String str = "hhhoooowwwwwww";
