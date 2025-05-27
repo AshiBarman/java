@@ -15,6 +15,7 @@ public class treeset{
         set.add("A");
         set.add("C");
         set.add("a");
+        // set.remove("A");
         System.out.println(set);
     }
 }
