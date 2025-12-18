@@ -3,7 +3,7 @@ public class student3 {
     String name;
     int rollNumber;
     double marks;
-     void displayDetails(){
+    void displayDetails(){
         System.out.println("Name:"+name);
         System.out.println("RollNumber:"+rollNumber);
         System.out.println("Marks:"+marks);
